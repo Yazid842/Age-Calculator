@@ -53,7 +53,7 @@ body{
     border: none;
     background-color:   rgb(194, 194, 194);
     cursor: pointer;
-    transition: background-color 0.4s ease;
+    transition: background-color 0.3s ease;
 }
 #Calculate:hover{
     background-color:  rgb(145, 144, 144);
