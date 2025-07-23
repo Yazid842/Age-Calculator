@@ -54,6 +54,8 @@ body{
     background-color:   rgb(194, 194, 194);
     cursor: pointer;
     transition: background-color 0.3s ease;
+    font-size: 1em;
+    font-weight: bold;
 }
 #Calculate:hover{
     background-color:  rgb(145, 144, 144);
